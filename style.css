@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(160, 99, 59);
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+h1,
+.site-header {
+  font-family: 'Brush Script MT';
+  color: rgb(255, 0, 0);
+  font-size: 37px;
+}
+
+h1 {
+    color: black;
+}
+
+.index-list {
+    color: white;
+}
+
+img {
+    height: auto;
+    width: 450px;
+}
+
+li {
+    font-size: 23px;
+}
